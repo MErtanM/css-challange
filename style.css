@@ -1,13 +1,34 @@
 *{
-background-color: bisque;
+
 margin: 0px;
 padding: 0px;
 
+
 }
 
+/* id classi class element selekterunu eziyor */
+
+#head1{
+
+color: #f1c40f;
+
+
+}
+
+.title{
+    font-size: 48px;
+    background-color: aquamarine;
+    font-weight: 500;
+    
+    
+    }
+
+    #head2{
+        color:#9b59b6 ;
+    }
 
 h1{
-color: blue;
+color: red;
 text-align: center;
 
 }
@@ -19,7 +40,17 @@ p{
     font-weight: 100;
 }
 
-h1{
 
-    color: red; /* en son yazilan kodu uygular*/
+
+.description{
+
+font-size: 24px;
+
 }
+
+p.description{
+
+    color:#e67e22;
+
+}
+
