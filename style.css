@@ -9,6 +9,10 @@ font-family:  firstFont;
 src:url('./font/Montserrat/static/Montserrat-ExtraLightItalic.ttf');
 
 }
+@font-face {
+    font-family: secondFont;
+    src: url('./font/PTMono-Regular.ttf');
+}
 
 
 
@@ -87,6 +91,7 @@ font-size: 24px;
 }
 
 h3.description{
+    font-family: 'Metal Mania', cursive;
     margin: 5%;
     border-width:2px 5px 3px 4px; /* top right bottom left */
     padding: 20px;
@@ -97,8 +102,11 @@ h3.description{
 
 }
 
-.cont {
-    display: grid;
+#cont {
+    
+    font-family: secondFont;
+   text-align: left;
+   text-decoration:dotted;
     margin: auto;
     width: 20%;
 
