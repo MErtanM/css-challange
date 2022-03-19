@@ -59,3 +59,38 @@ p.description{
     background-color: darkblue;
     text-align: center;
 }
+
+
+a{
+    text-decoration: none;
+}
+
+a:active {
+    color:chartreuse;
+}
+
+a:visited {
+    
+color:rgb(255, 0, 0);
+
+}
+a:hover {
+font-size: larger;
+color:#260ff1;
+
+}
+
+ul{
+    margin: 25px;
+    padding: 15px;
+}
+
+.list {
+    border:  1px solid black;
+    margin-left: 30px;
+line-height: 24px;
+list-style-type:circle;
+list-style-position: inside;
+/*list-style-position: outside;*/
+
+}
