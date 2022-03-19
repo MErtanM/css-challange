@@ -81,16 +81,26 @@ color:#260ff1;
 }
 
 ul{
+    background-color: #8e44ad;
     margin: 25px;
     padding: 15px;
+    
+   width: 100%;
+   height: fit-content;
+
+}
+
+li{
+
+    background-color: #27ae60;
 }
 
 .list {
     border:  1px solid black;
     margin-left: 30px;
 line-height: 24px;
-list-style-type:circle;
-list-style-position: inside;
-/*list-style-position: outside;*/
-
+/*list-style-type:circle;*/
+/*list-style-position: inside;*/
+list-style-position: outside;
+/*list-style-image:url('d1.gif');*/
 }
