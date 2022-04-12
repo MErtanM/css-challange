@@ -1,0 +1,38 @@
+body{
+
+height: 2000px;
+
+
+}
+
+#document{
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+}
+
+
+#fixed{
+
+
+
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+
+
+}
+
+#box{
+
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+
+
+
+}
