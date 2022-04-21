@@ -1,0 +1,42 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+
+
+body{
+background-image: url(./images/medine2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+position:relative;
+margin: 20px;
+padding: 20px;
+
+
+}
+
+.container{
+width:50%;
+/* height: 500px; */
+margin: 0;
+background-color: beige;
+opacity: 0.5;
+color: black;
+font-size: 16px;
+font-family: Oleo script;
+position: relative;
+border: 1px solid red;
+border-radius: 15px;
+font-style: oblique;
+
+}
+p{
+
+padding: 1vw;
+text-align: center;
+text-decoration: double;
+text-overflow: clip;
+letter-spacing: 1px;
+
+}
+
